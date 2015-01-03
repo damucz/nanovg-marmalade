@@ -1,0 +1,6 @@
+[S3E]
+MemSize=10000000
+SysStackSize=131072     # defaults to 32768
+
+[GL]
+EGL_STENCIL_SIZE=8

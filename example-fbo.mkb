@@ -1,0 +1,15 @@
+subprojects
+{
+	nanovg-marmalade
+}
+
+files
+{
+	(example)
+	example_fbo.cpp
+	
+	demo.h
+	demo.cpp
+	perf.h
+	perf.cpp
+}

@@ -1,0 +1,17 @@
+subprojects
+{
+	iwgl
+}
+
+files
+{
+	(nanovg/src)
+	"*.h"
+	"*.c"
+}
+
+includepaths
+{
+	nanovg/src
+}
+	
